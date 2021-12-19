@@ -14,7 +14,6 @@ nocomments: true
     * Master's in Mathematical Sciences major in Data Science.
  
 <br>
-<br>
 
 * [__Data and Machine Learning Engineering – 10 Academy__](https://www.10academy.org/) ( 07/2021 – 10/2021)
     * Grade: Distinction
@@ -22,7 +21,6 @@ nocomments: true
       Science processes and workflow, Basic Data Engineering, Data understanding and exploration, Basic Continuous Integration (CI), Basic MLOps,
       Modeling, serving ML models through dashboard(Deployment) and report documentation.
  
- <br>
  <br>
  
  * [__Bachelor's Degree in Computer Science and Engineering – Mekelle University - Mekelle Institute of Technology(MU-MIT)__](http://www.mu.edu.et/) (09/2015 – 12/2020, Ethiopia)
