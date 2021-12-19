@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Mathmatics"
-date:   2021-10-27 16:00
-categories: Programming
-permalink: /archivers/mathmatics
----
-## Numerical Analysis
-
