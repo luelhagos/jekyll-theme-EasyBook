@@ -32,9 +32,9 @@ excerpt_separator: <!--more-->
 #navbar-links:
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
-    HOME: /
-    PROJECTS: /Projects/
-    ABOUT ME: /about/
+    #HOME: /
+    Projects: /Projects/
+    about: /about/
     #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
