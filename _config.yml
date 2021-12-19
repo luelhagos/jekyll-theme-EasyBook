@@ -5,7 +5,7 @@ url: "http://luelhagos.github.io"    # the protocol and hostname of your site, e
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-Welcome to my personal blog. Enjoy!!
+    Welcome to my personal blog. Enjoy!!
 
 # Your information
 email: luel.hagos@aims.ac.rw
