@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: __About me__
 permalink: /about/
 nocomments: true
 ---
