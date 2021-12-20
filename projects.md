@@ -7,11 +7,14 @@ nocomments: true
 ## Pharmaceutical Sales Prediction
 * Used Linear Regression, Random Forest Regression, and LSTM Regression to build an end-to-end product that delivers this prediction to analysts in the finance team.
 <br>
+
 ## User Analytics in the Telecommunication Industry
 * Provides a report to analyze opportunities for growth and make a recommendation on whether TellCo is worth buying or selling by analyzing a telecommunication dataset that contains useful information about the customers & their activities on the network. 
 <br>
+
 ## Swahili Speech-to-Text
 * Worked in a team of 10 to build a speech recognition model that transcribes Swahili speech to text. Applied CNN and bi-directional RNN deep learning architectures using TensorFlow for the model and built a transcription dashboard using streamlit.
 <br>
+
 ## Rule Based Stemming Algorithm For Tigrinya Language
 * Rule-based stemming algorithm that helps in information retrieval and many natural language processing applications and it was webbased integrated using Python     and Flask.
