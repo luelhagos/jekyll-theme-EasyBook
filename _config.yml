@@ -40,8 +40,8 @@ header:
 permalink: /archivers/:title
 plugins:
  - jekyll-paginate
- - jekyll-gist
- - jemoji
+ #- jekyll-gist
+# - jemoji
 
 # Build settings
 paginate: 5
