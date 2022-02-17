@@ -34,13 +34,11 @@ import warnings
 warnings.filterwarnings('ignore')
 ```
 
-
 ```python
 # train and test dataset
 train_data = dsets.MNIST(root='mnist_data/', train=True,transform = transforms.ToTensor(), download=True)
 test_data = dsets.MNIST(root='mnist_data/', train=False, transform = transforms.ToTensor(),download=True)
 ```
-
 
 ```python
 # train and test dataloader
