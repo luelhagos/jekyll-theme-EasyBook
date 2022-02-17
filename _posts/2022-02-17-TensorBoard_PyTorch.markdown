@@ -6,7 +6,7 @@ categories: PyTorch
 permalink: /posts/tensorboard
 ---
 
-* Displaying images and other metrics of mnist dataset on tensorboard
+Displaying images and other metrics of mnist dataset on tensorboard
 
 
 ```python
