@@ -184,7 +184,5 @@ print('Finished Training')
     ^C
 
 
+Clock [here](https://pytorch.org/tutorials/recipes/recipes/tensorboard_with_pytorch.html) to learn more about tensoroard.
 
-```python
-
-```
