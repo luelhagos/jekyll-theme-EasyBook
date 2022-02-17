@@ -1,6 +1,12 @@
-# How to Use Tensorboard with PyTorch
+---
+layout: post
+title:  "How to display images on Tensorboard PyTorch?"
+date:   2022-02-17 06:08
+categories: PyTorch
+permalink: /posts/tensorboard
+---
 
-Displaying images and other metrics of mnist dataset on tensorboard
+* Displaying images and other metrics of mnist dataset on tensorboard
 
 
 ```python
