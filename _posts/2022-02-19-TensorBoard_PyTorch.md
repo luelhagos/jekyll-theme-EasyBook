@@ -3,7 +3,7 @@ layout: post
 title: "Display informations on Tensorboard PyTorch"
 date: 2022-02-19 12:01
 categories: PyTorch
-permalink: /posts/tensorboard
+permalink: /posts/tensor_board
 ---
 
 # Tensorboard using PyTorch
