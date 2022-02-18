@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to display images on Tensorboard PyTorch?"
+title: "Display informations on Tensorboard PyTorch"
 date: 2022-02-19 12:01
 categories: PyTorch
 permalink: /posts/tensorboard
