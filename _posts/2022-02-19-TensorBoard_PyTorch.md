@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Display informations on Tensorboard PyTorch"
-date: 2022-02-19 12:01
+date: 2022-02-19 00:16
 categories: PyTorch
 permalink: /posts/tensor_board
 ---
+
 
 # Tensorboard using PyTorch
 ```python
