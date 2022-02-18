@@ -1,5 +1,12 @@
-# How to Use Tensorboard with PyTorch
+---
+layout: post
+title:  "Display informations on Tensorboard PyTorch"
+date:   2022-02-19 00:28
+categories: PyTorch
+permalink: /posts/tensorboard_pytorch
+---
 
+# Tensorboard using PyTorch
 
 ```python
 # import libraries
