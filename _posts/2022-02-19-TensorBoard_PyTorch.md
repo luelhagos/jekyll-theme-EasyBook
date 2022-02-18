@@ -6,6 +6,7 @@ categories: PyTorch
 permalink: /posts/tensorboard
 ---
 
+# Tensorboard using PyTorch
 ```python
 # import libraries
 import torch
