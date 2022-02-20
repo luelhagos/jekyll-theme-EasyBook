@@ -16,5 +16,3 @@ nocomments: true
 * Worked in a team of 10 to build a speech recognition model that transcribes Swahili speech to text. Applied CNN and bi-directional RNN deep learning architectures using TensorFlow for the model and built a transcription dashboard using streamlit.
 <br>
 
-## Rule Based Stemming Algorithm For Tigrinya Language
-* Rule-based stemming algorithm that helps in information retrieval and many natural language processing applications and it was webbased integrated using Python     and Flask.
