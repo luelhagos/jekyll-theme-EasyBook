@@ -12,7 +12,3 @@ nocomments: true
 * Provides a report to analyze opportunities for growth and make a recommendation on whether TellCo is worth buying or selling by analyzing a telecommunication dataset that contains useful information about the customers & their activities on the network. 
 <br>
 
-## Swahili Speech-to-Text
-* Worked in a team of 10 to build a speech recognition model that transcribes Swahili speech to text. Applied CNN and bi-directional RNN deep learning architectures using TensorFlow for the model and built a transcription dashboard using streamlit.
-<br>
-
