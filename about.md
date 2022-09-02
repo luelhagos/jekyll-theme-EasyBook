@@ -13,13 +13,13 @@ nocomments: true
 * [__Business Management - ESMT Berlin__](https://esmt.berlin/) (07/2022 – 08/2022, Kigali, Rwanda)
     * A five-week Business management training program organized by Industry Immersion Africa (IIP) in partnership with [ESMT Berlin](https://esmt.berlin/).
     * I had the chance to enhance my knowledge and skills in leadership, teamwork, entrepreneurship, data analytics, and design thinking, to mention a few.
-    * 
+    
 <br>
 
 * [__MSc in Mathematical Sciences (Major in Data Science) – African Institute for Mathematical Sciences (AIMS)__](https://aims.ac.rw/) (09/2021 – 06/2022, Kigali, Rwanda)
     * Grade: Distinction
     * Relevant Courses: Data-driven Optimization with Machine Learning Applications, High Performance Computing, Statistical Regression, Big Data          Analytics with Python, Database and Data Management, Introduction to Principles of Statistical Learning for Data Science, Operations Research.
-    * 
+    
 <br>
 
 * [__Data and Machine Learning Engineering – 10 Academy__](https://www.10academy.org/) (07/2021 – 10/2021, Addis Ababa, Ethiopia)
