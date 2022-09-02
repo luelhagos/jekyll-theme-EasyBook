@@ -32,4 +32,4 @@ nocomments: true
  
  * [__Bachelor's Degree in Computer Science and Engineering – Mekelle University - Mekelle Institute of Technology(MU-MIT)__](http://www.mu.edu.et/) (09/2015 – 12/2020, Mekelle, Ethiopia)
      * Grade: honors (3.77/4.0)
-     * Relevant Courses: Data Structures, Design and Analysis of Algorithms, Operating System, Compiler Design, Microcontrollers, Cryptography and Network Security, Neural Networks and Fuzzy Logic, Artificial Intelligence and Expert Systems.
+     * Relevant Courses: Data Structures, Design and Analysis of Algorithms, Operating Systems, Microcontrollers, Compiler Design, Microprocessors, Cryptography and Network Security, Digital Signal Processing.
