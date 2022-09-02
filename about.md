@@ -10,7 +10,7 @@ nocomments: true
 * I'm passionate about new technologies, programming, Machine Learning, Deep Learning and Data Science.<br>
 
 ## Education 
-* [__Business Management__](https://aims.ac.rw/) (07/2022 – 08/2022, Kigali, Rwanda)
+* [__Business Management - ESMT Berlin__](https://esmt.berlin/) (07/2022 – 08/2022, Kigali, Rwanda)
     * A five-week Business management training program organized by Industry Immersion Africa (IIP) in partnership with [ESMT Berlin](https://esmt.berlin/).
     * I had the chance to enhance my knowledge and skills in leadership, teamwork, entrepreneurship, data analytics, and design thinking, to mention a few.
     * 
