@@ -33,7 +33,7 @@ excerpt_separator: <!--more-->
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     HOME: /
-    PROJECTS: /projects/
+    #PROJECTS: /projects/
     ABOUT ME: /about/
     #Donate: https://laobubu.net/donate.html
 
