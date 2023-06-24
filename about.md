@@ -4,10 +4,9 @@ title: About me
 permalink: /about/
 nocomments: true
 ---
- 
-<!--  * I am capable in python programming,  machine learning software tools like TensorFlow, PyTorch and mlflow, data mining, cleaning, analysis, visualization,  interpretation of large datasets and develop models.
- <br> -->
-* I'm passionate about new technologies, programming, Machine Learning, Deep Learning and Data Science.<br>
+<!--  * I am capable in python programming,  machine learning software tools like TensorFlow, PyTorch and mlflow, data mining, cleaning, analysis, visualization,  interpretation of large datasets and develop models.<br>  * I'm passionate about new technologies, programming, Machine Learning, Deep Learning and Data Science.-->
+I'm a data scientist particularly interested in deep learning and natural language processing. With my background in computer science and math, I have the skills and knowledge to analyze and interpret complex data sets and develop innovative solutions for real-world problems. I'm always looking for new challenges and opportunities to learn and grow as a data scientist.
+<br>
 
 ## Education 
 * [__Business Management - ESMT Berlin__](https://esmt.berlin/) (07/2022 – 08/2022, Kigali, Rwanda)
