@@ -1,0 +1,3 @@
+[submodule "themes/jekyll-theme-EasyBook"]
+	path = themes/jekyll-theme-EasyBook
+	url = https://github.com/laobubu/jekyll-theme-EasyBook
