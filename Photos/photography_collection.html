@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PhotographyCollection - A visual diary capturing beautiful moments in nature.">
+    <title>PhotographyCollection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .section-title {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .gallery {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .gallery img {
+            width: 32%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+        .gallery img:hover {
+            transform: scale(1.05);
+        }
+        .description {
+            text-align: center;
+            margin: 20px 0;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Photography Collection</h1>
+    </div>
+    
+    <div class="container">
+        <h2 class="section-title">Visual Diary</h2>
+        <p class="description">I have a passion for capturing moments through my lens, especially those that showcase the beauty of nature. Every photo tells a story and reflects the world as I see it. Take a look and experience the moments I've cherished.</p>
+
+        <div class="gallery">
+            <img src="/assets/img/collections/mch.JPG" alt="Meteora_thessaloniki">
+            <img src="/assets/img/collections/servalwildlife_Arusha.jpeg" alt="Kigali_sunset">
+            <img src="/assets/img/collections/meteora_thessaloniki.jpg" alt="servalwildlife_Arusha">
+        </div>
+    </div>
+</body>
+</html>
