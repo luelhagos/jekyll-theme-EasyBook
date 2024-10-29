@@ -1470,8 +1470,8 @@ section,
   /* Add your styles here */
 }
 
-.unique-container .row {
+/* .unique-container .row {
   display: flex;
   justify-content: center;
   gap: 20px;
-}
+} */
