@@ -1470,7 +1470,7 @@ section,
   /* Add your styles here */
 }
 
-.container .row {
+.unique-container .row {
   display: flex;
   justify-content: center;
   gap: 20px;
